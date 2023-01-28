@@ -4,7 +4,8 @@
 
 Hello World is een eenvoudige manier om te leren hoe een specifieke programmeertaal werkt. Het is een kort programma dat de tekst "Hello World" op het scherm afdrukt. Hieronder beschrijf ik hoe je een Hello World programma in verschillende programmeertalen kunt maken.
 
-Javascript:
+JavaScript:
+
 ```js
 console.log("Hello World");
 ```
